@@ -1,5 +1,8 @@
-First file for master 
+First file for master .
 
+Making Merge attempt Master 1.
+
+WTF is happening.
 Making Merge attempt Master file change 1
 
 Making Merge attempt Master file change 2
