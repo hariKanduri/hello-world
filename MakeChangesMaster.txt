@@ -6,3 +6,5 @@ WTF is happening.
 Making Merge attempt Master file change 1
 
 Making Merge attempt Master file change 2
+
++++++++++++++++++++++++++++++++++++++++++++++
