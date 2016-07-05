@@ -4,3 +4,5 @@ Making Merge attempt Branch 1.
 Making Merge attempt Branch 2.
 
 Branch change 1234
+
+Master change 456
